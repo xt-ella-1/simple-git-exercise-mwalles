@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 I like to eat: Chips
 I like to hear: Yshay Ribo
 My hobbies are Sing, Draw, Dance.
@@ -5,3 +6,12 @@ My hobbies are Sing, Draw, Dance.
 I would like to travel to Pero.
 
 Nobody but GOD.
+=======
+I like to eat: BAMBA
+I like to hear: Ishay Ribo
+My hobbies are Ridding bikes.
+
+I would like to travel to Italy.
+
+"Nobody but god".
+>>>>>>> my_branch
